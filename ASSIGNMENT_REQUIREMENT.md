@@ -46,10 +46,6 @@ The client, an AI developer, uses web scraping to gather training data but faces
 
 
 
-
-
-
-
 ---
 
 
@@ -85,3 +81,57 @@ The client, an AI developer, uses web scraping to gather training data but faces
 3. **Analyzing Data:**
    - To verify the bias analysis function and make sure it offers precise and useful insights, use a sample dataset.
    - To make sure the categorization functionality functions as intended, test it with various kinds of data.
+
+
+---
+
+
+
+
+
+
+# 3. TASK BREAKDOWN- Actions to follow:
+
+
+## Task 1: Collecting and Analyzing Requirements
+- **Subtasks:**
+  - Have meetings with the client to collect specific needs.
+  - Examine the present difficulties and record the system and functional needs.
+  - Consult the customer to confirm the needs.
+
+## Task 2: System Architecture
+- **Subtasks:**
+  - Create the system architecture, taking into account the processing, storage, and data flow elements.
+  - Make user interface prototypes or wireframes.
+  - Identify the sites of integration with web scraping technologies.
+
+## Task 3: Execution
+- **Subtasks:**
+  - Create the training question classification feature.
+  - Put the reporting and bias analysis tool into use.
+  - Include web scraping tools in the system.
+
+## Task 4: Validation and Testing
+- **Subtasks:**
+  - To make sure the system satisfies the requirements, test it using example datasets.
+  - Get input from the client and validate the system.
+  - Resolve any problems found during testing.
+
+## Task 5: Documentation and Deployment
+- **Subtasks:**
+  - Install the system in a cloud setting.
+  - Give developers instructions on how to operate the system.
+  - Provide the client's developers with training.
+
+
+---
+
+## Other Assumptions:
+### 1. Future-Proofing Assumptions
+- **Extensibility**: The system should accommodate future features.
+- **Data Growth**: The system should handle increasing data volumes.
+- **Technology Updates**: The system should be compatible with future updates.
+
+### 2. User Feedback Assumptions
+- **Feedback Loop**: The system should include a feedback mechanism.
+- **Iterative Development**: The client is open to iterative improvements.

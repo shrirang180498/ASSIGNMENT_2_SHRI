@@ -134,10 +134,22 @@ The client, an AI developer, uses web scraping to gather training data but faces
 
 ### 2. User Feedback Assumptions
 - **Feedback Loop**: The system should include a feedback mechanism.
-- **Iterative Development**: The client is open to iterative improvements.
+- **Iterative Development**: The client is open to iterative improvements
 
 ---
 
+  _______ _                 _    __   __
+ |__   __| |               | |   \ \ / /
+    | |  | |__   __ _ _ __ | | __ \ V / 
+    | |  | '_ \ / _` | '_ \| |/ /  > <  
+    | |  | | | | (_| | | | |   <  / . \ 
+    |_|  |_| |_|\__,_|_| |_|_|\_\/_/ \_\
 
-			# **THANK YOU!** #
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+★                                                         ★
+★                  THANK YOU                              ★
+★                                                         ★
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+
+
 ---

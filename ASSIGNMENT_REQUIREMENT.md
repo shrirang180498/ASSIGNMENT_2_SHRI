@@ -18,7 +18,7 @@ The client, an AI developer, uses web scraping to gather training data but faces
 
 # 1. Requirement Breakdown
 
-## Functional Requirements
+## Functional Requirements:
 
 #### Categorized Training Questions:
 - Developers should be able to classify training questions using the system according to subjects, degrees of difficulty, or other pertinent factors.
@@ -44,3 +44,26 @@ The client, an AI developer, uses web scraping to gather training data but faces
 - The system should easily interface with the client's current web scraping technologies so that data may be imported straight into the system.
 - For simple data import and export, the system should support a variety of data formats, such as CSV and JSON.
 
+
+
+
+
+
+
+---
+
+
+# 2. Assumptions & Validations
+
+## Assumptions:
+
+#### Availability of Data:
+- For web scraping, we presume that the client has access to enough publicly available data.
+- We presume that the web scraping techniques used by the client are dependable and capable of delivering consistent data.
+
+#### User Proficiency:
+- We presume that the system's developers are familiar with the fundamentals of data management and AI training.
+- We presume that the developers are knowledgeable with data formats and online scraping tools.
+
+#### Environment of the System:
+- We anticipate that the system will be set up in a cloud environment with enough resources for performance and scalability.
